@@ -15,7 +15,7 @@ This example introduces arrays in Python using lists, covering how to:
    [📺 Watch the Video ▶️](https://youtube.com/shorts/7PubggmDrDU?si=mJEKPP9X5XAkj6aB)  
 
 - 🔄 **Rotating & Shifting Arrays:** Learn how to rotate elements circularly and shift with zero padding.  
-   [📺 Watch the Video ▶️](https://youtube.com/your-shifting-rotation-video-link)  
+   [📺 Watch the Video ▶️](https://youtube.com/shorts/OPqNwut8go0?feature=share)  
 
 ---
 
